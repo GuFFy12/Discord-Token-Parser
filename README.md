@@ -1,7 +1,7 @@
 # Discord-Token-Parser
 Parse discord tokens from any file, even if there is other shit in the file with them.
 
-Any. File. I glued together all html from the archives of tokenlogged users in discord, and the parser took the tokens from THEIR webhook tokenlog😮
+Any. File. I glued together all html from the archives of tokenlogged users in discord, and the parser took the tokens from THEIR webhook tokenlogger😮
 
 Before/after:
 
