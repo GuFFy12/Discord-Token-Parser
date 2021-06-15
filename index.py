@@ -2,8 +2,6 @@ import colorama, os, ctypes, re
 from colorama import Fore, init
 from sys import exit
 
-init()
-
 def doIntro():
     os.system("cls")
 if __name__ == '__main__':
@@ -27,9 +25,7 @@ def main():
         os.remove("Parsed Tokens.txt")
     except: None
     open("Parsed Tokens.txt", 'a+')
-
     tokens = []
-
     for line in [x.strip() for x in open(f'{tokenFileName}.txt', errors='ignore').readlines() if x.strip()]:
         for regex in (r'[\w-]{24}\.[\w-]{6}\.[\w-]{27}', r'mfa\.[\w-]{84}'):
             for token in re.findall(regex, line):
