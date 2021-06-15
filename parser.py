@@ -1,5 +1,3 @@
-
-
 import colorama, os, ctypes, re
 from colorama import Fore, init
 from sys import exit
