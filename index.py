@@ -3,7 +3,7 @@ from colorama import Fore
 from sys import exit
 
 def cls():
-    os.system('cls' if os.name=='nt' else 'clear')
+    os.system("cls" if os.name=="nt" else "clear")
 
 def fexit():
     input(f"\n{Fore.RESET}Press Enter button for exit")
@@ -44,9 +44,9 @@ if "2" in checktype:
     print(f"Glue the files...\n")
 
     files = glob.glob(f"{tokenDirectoryName}\\*.txt")
-    with open(f"{tokenDirectoryName}\\all_data.tmp", 'w', encoding="utf-8") as result:
+    with open(f"{tokenDirectoryName}\\all_data.tmp", "w", encoding="utf-8") as result:
         for file_ in files:
-            for line in open( file_, 'r', encoding="utf-8"):
+            for line in open( file_, "r", encoding="utf-8"):
                 result.write(line)
     tokenFileName = f"{tokenDirectoryName}\\all_data.tmp"
 
