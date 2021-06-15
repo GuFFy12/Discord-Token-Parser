@@ -3,7 +3,7 @@ Parse discord tokens from any file, even if there is other shit in the file with
 
 Before/after:
 
-![image](https://user-images.githubusercontent.com/49491499/122065624-88cc8900-ce0b-11eb-9458-532ac897bb30.png)
+![image](https://user-images.githubusercontent.com/49491499/122070142-22e20080-ce0f-11eb-900c-2a1e9d969982.png)
 
 Menu:
 
