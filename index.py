@@ -2,14 +2,11 @@ import colorama, os, ctypes, re
 from colorama import Fore, init
 from sys import exit
 
-def doIntro():
-    os.system("cls")
+os.system("cls")
 if __name__ == '__main__':
     os.system('cls')
     ctypes.windll.kernel32.SetConsoleTitleW("Discord Token Checker by GuFFy_OwO")
     colorama.init()
-
-doIntro()
 
 print(f"{Fore.MAGENTA}Discord Token Parser by GuFFy_OwO\n")
 tokenFileName = input(f"{Fore.GREEN}Enter the name of the file in wich are the unchecked tokens (without .txt) : ")
