@@ -42,7 +42,7 @@ def main():
     with open("Parsed Tokens.txt", "a", encoding='utf-8') as f:
         f.write(tokens_str)
     found = sum(1 for line in open("Parsed Tokens.txt", 'r', encoding='utf-8')) 
-    print(f"\nDone. Found {found} tokens!\n")
+    print(f"{Fore.CYAN}\nDone. Found {found} tokens!\n")
     input(f"{Fore.MAGENTA}Press Enter button for exit")
     exit()
       
