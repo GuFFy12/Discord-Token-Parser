@@ -9,6 +9,13 @@ Before/after:
 
 Menu:
 
-![image](https://user-images.githubusercontent.com/49491499/122066577-4e172080-ce0c-11eb-8773-19b9ae2d9e5c.png)
+![image](https://user-images.githubusercontent.com/49491499/122122772-a9660480-ce46-11eb-8bb8-6075ee8616c0.png)
+
+![image](https://user-images.githubusercontent.com/49491499/122122844-c4387900-ce46-11eb-8576-61c2a79a3680.png)
+
+![image](https://user-images.githubusercontent.com/49491499/122122892-d31f2b80-ce46-11eb-8889-dce89b6f1eb5.png)
+
+
+
 
 
