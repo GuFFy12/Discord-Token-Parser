@@ -12,7 +12,7 @@ def fexit():
 os.system("cls")
 if __name__ == "__main__":
     os.system("cls")
-    ctypes.windll.kernel32.SetConsoleTitleW("Discord Token Checker by GuFFy_OwO")
+    ctypes.windll.kernel32.SetConsoleTitleW("Discord Token Parser by GuFFy_OwO")
     colorama.init()
 
 print(f"{Fore.RESET}[{Fore.CYAN}1{Fore.RESET}] Check one file")
