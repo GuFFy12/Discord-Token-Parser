@@ -1,4 +1,4 @@
-# Discord-Token-Parser
+# https://github.com/GuFFy12/Discord-Token-Checker CHECK AND  PARSE TOKENS!
 Parse discord tokens from any file, even if there is other shit in the file with them.
 
 Any. File. I glued together all html from the archives of tokenlogged users in discord, and the parser took the tokens from THEIR webhook tokenlogger😮
